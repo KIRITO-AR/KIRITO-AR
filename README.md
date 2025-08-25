@@ -1,12 +1,12 @@
 # 👋 Hello, I'm ARKAPRAVA DAS (KIRITO-AR)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Computer+Science+%26+Technology+Student;Full+Stack+Developer;AI%2FML+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Computer+Science+%26+Technology+Student;Full+Stack+Developer;AI%2FML+Engineer;Workflow+Automation+Expert" alt="Typing SVG" />
 </div>
 
 ## 🎓 About Me
 
-I'm a passionate **Computer Science & Technology** student at **JIS College of Engineering** with a strong foundation in software development and artificial intelligence. Currently maintaining a **7.97 CGPA** and constantly exploring new technologies to build innovative solutions.
+I'm a passionate **Computer Science & Technology** student at **JIS College of Engineering** with a strong foundation in software development and artificial intelligence. Currently maintaining a **CGPA of 9.49**, I specialize in building innovative AI-powered applications and automated workflow solutions.
 
 - 🔭 I'm currently working on **AI-based web applications**
 - 🌱 I'm learning **Advanced Machine Learning & Cloud Technologies**
@@ -35,7 +35,27 @@ I'm a passionate **Computer Science & Technology** student at **JIS College of E
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+### Workflow Automation
+![n8n](https://img.shields.io/badge/n8n-%23EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white)
+![Make](https://img.shields.io/badge/Make-%236366F1.svg?style=for-the-badge&logo=integromat&logoColor=white)
+
 ## 💼 Featured Projects
+
+### 🤖 JiNsX-Ai Web Application
+**Tech Stack:** React, Node.js, AI Integration, Modern UI/UX
+**Repository:** [JiNsX-Ai-web](https://github.com/KIRITO-AR/JiNsX-Ai-web.git)
+- Advanced AI-powered web application with intelligent conversation capabilities
+- Modern responsive design with seamless user experience
+- Real-time AI interactions and dynamic content generation
+- Integrated multiple AI models for enhanced functionality
+
+### 🎮 JiNsX-Ai Discord Bot
+**Tech Stack:** Discord.js, Node.js, AI Integration, Bot Development
+**Repository:** [JiNsX-Ai-discord-bot](https://github.com/KIRITO-AR/JiNsX-Ai-discord-bot.git)
+- Intelligent Discord bot powered by advanced AI capabilities
+- Multi-server support with customizable commands and features
+- Real-time conversation handling with natural language processing
+- Automated moderation and community management features
 
 ### 🌐 WORKNET - AI Based Internship Portal
 **Tech Stack:** React, Node.js, MongoDB, AI Integration
@@ -43,12 +63,6 @@ I'm a passionate **Computer Science & Technology** student at **JIS College of E
 - Implemented AI resume maker, CV extractor, and job matching algorithms
 - Features include user authentication, dynamic document generation, and real-time notifications
 - **Database:** 1000+ internship listings with advanced filtering
-
-### 🕷️ SPYDER - AI Based Assistant
-**Tech Stack:** Python, Neural Networks, Voice Recognition
-- Developed AI virtual assistant with voice interaction capabilities
-- Implemented natural language processing for intelligent responses
-- GUI interface for seamless user interaction
 
 ### 📚 EBOOK - Library Management System
 **Tech Stack:** Web Technologies, Database Management
