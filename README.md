@@ -1,9 +1,8 @@
 # 👋 Hello, I'm ARKAPRAVA DAS (KIRITO-AR)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Computer+Science+%26+Technology+Student;Full+Stack+Developer;AI%2FML+Engineer;Workflow+Automation+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Computer+Science+%26+Technology+Student;Full+Stack+Developer;AI%2FML+Engineer;Workflow+Automation+Expert" alt="Typing SVG" />
 </div>
-
 ## 🎓 About Me
 
 I'm a passionate **Computer Science & Technology** student at **JIS College of Engineering** with a strong foundation in software development and artificial intelligence. Currently maintaining a **CGPA of 9.49**, I specialize in building innovative AI-powered applications and automated workflow solutions.
