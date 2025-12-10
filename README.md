@@ -1,11 +1,12 @@
 # 👋 Hello, I'm ARKAPRAVA DAS (KIRITO-AR)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Computer+Science+%26+Technology+Student;Full+Stack+Developer;AI%2FML+Engineer;Workflow+Automation+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Computer+Science+%26+Technology+Student;Full+Stack+Developer;AI%2FML+Enthusiast" alt="Typing SVG"/>
 </div>
+
 ## 🎓 About Me
 
-I'm a passionate **Computer Science & Technology** student at **JIS College of Engineering** with a strong foundation in software development and artificial intelligence. Currently maintaining a **CGPA of 9.49**, I specialize in building innovative AI-powered applications and automated workflow solutions.
+I'm a passionate **Computer Science & Technology** student at **JIS College of Engineering** with a strong foundation in software development and artificial intelligence. Currently maintaining and building AI-powered web applications and developer tools.
 
 - 🔭 I'm currently working on **AI-based web applications**
 - 🌱 I'm learning **Advanced Machine Learning & Cloud Technologies**
@@ -42,7 +43,7 @@ I'm a passionate **Computer Science & Technology** student at **JIS College of E
 
 ### 🤖 JiNsX-Ai Web Application
 **Tech Stack:** React, Node.js, AI Integration, Modern UI/UX  
-**Repository:** [JiNsX-Ai-web](https://github.com/KIRITO-AR/JiNsX-Ai-web.git)
+**Repository:** https://github.com/KIRITO-AR/JiNsX-Ai-web
 - Advanced AI-powered web application with intelligent conversation capabilities
 - Modern responsive design with seamless user experience
 - Real-time AI interactions and dynamic content generation
@@ -50,7 +51,7 @@ I'm a passionate **Computer Science & Technology** student at **JIS College of E
 
 ### 🎮 JiNsX-Ai Discord Bot
 **Tech Stack:** Discord.js, Node.js, AI Integration, Bot Development  
-**Repository:** [JiNsX-Ai-discord-bot](https://github.com/KIRITO-AR/JiNsX-Ai-discord-bot.git)
+**Repository:** https://github.com/KIRITO-AR/JiNsX-Ai-discord-bot
 - Intelligent Discord bot powered by advanced AI capabilities
 - Multi-server support with customizable commands and features
 - Real-time conversation handling with natural language processing
@@ -98,17 +99,15 @@ I'm a passionate **Computer Science & Technology** student at **JIS College of E
 - 🎮 **President** - Gaming Club, JISCE
 - 🎸 **Hobbies:** Gaming, Music & Guitar
 
-
-
 ## 🌐 Connect with Me
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arkaprava-das-052439280/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KIRITO-AR)
-[![Vercel](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://arkaprava.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arkarkdas26@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B91--6033071187-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+916033071187)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arkaprava-das-052439280/)
+  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KIRITO-AR)
+  [![Vercel](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://arkaprava.vercel.app/)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arkarkdas26@gmail.com)
+  [![Phone](https://img.shields.io/badge/Phone-%2B91--6033071187-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+916033071187)
 
 </div>
 
@@ -123,9 +122,12 @@ I'm a passionate **Computer Science & Technology** student at **JIS College of E
   <h3>💻 "Code is poetry written in logic" 💻</h3>
   <p><i>Always learning, always coding, always growing!</i></p>
 </div>
-## GitHub Analytics
+
+## GitHub Analysis
+
+Updated GitHub analytics badges for consistency and reliability.
 
 ![Main stats](https://github-readme-stats.vercel.app/api?username=KIRITO-AR&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KIRITO-AR&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&cache_seconds=86400)
 ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=KIRITO-AR&theme=tokyonight&hide_border=true&cache_seconds=86400)
-![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KIRITO-AR&theme=tokyo-night&hide_border=true&cache_seconds=86400)
+![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KIRITO-AR&theme=tokyonight&hide_border=true&cache_seconds=86400)
